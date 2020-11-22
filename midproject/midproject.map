@@ -1,0 +1,126 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Nov 22 15:21:26 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000298
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x0002af      
+            670 out of 33048 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    again   0x00027e    program     static D:\microP\midproject\midproject.asm
+                   again2   0x000282    program     static D:\microP\midproject\midproject.asm
+                   check1   0x000022    program     static D:\microP\midproject\midproject.asm
+                   check2   0x00002a    program     static D:\microP\midproject\midproject.asm
+                cleardisp   0x000128    program     static D:\microP\midproject\midproject.asm
+                  commlcd   0x0000f6    program     static D:\microP\midproject\midproject.asm
+                     conA   0x000038    program     static D:\microP\midproject\midproject.asm
+                     conB   0x000042    program     static D:\microP\midproject\midproject.asm
+                     conC   0x00004c    program     static D:\microP\midproject\midproject.asm
+                     conD   0x000056    program     static D:\microP\midproject\midproject.asm
+                   cursor   0x000120    program     static D:\microP\midproject\midproject.asm
+                    delay   0x00027a    program     static D:\microP\midproject\midproject.asm
+                   eight8   0x0000b8    program     static D:\microP\midproject\midproject.asm
+                    five5   0x000094    program     static D:\microP\midproject\midproject.asm
+                 force1st   0x000132    program     static D:\microP\midproject\midproject.asm
+                 force2nd   0x000140    program     static D:\microP\midproject\midproject.asm
+                    four4   0x000088    program     static D:\microP\midproject\midproject.asm
+                 hashtag#   0x0000e8    program     static D:\microP\midproject\midproject.asm
+                   keypad   0x000060    program     static D:\microP\midproject\midproject.asm
+                      lcd   0x000112    program     static D:\microP\midproject\midproject.asm
+                   matrix   0x000118    program     static D:\microP\midproject\midproject.asm
+                     next   0x000032    program     static D:\microP\midproject\midproject.asm
+                    nine9   0x0000c4    program     static D:\microP\midproject\midproject.asm
+                     one1   0x000064    program     static D:\microP\midproject\midproject.asm
+                  sendata   0x000104    program     static D:\microP\midproject\midproject.asm
+                   seven7   0x0000ac    program     static D:\microP\midproject\midproject.asm
+                    show#   0x00026c    program     static D:\microP\midproject\midproject.asm
+                    show0   0x000250    program     static D:\microP\midproject\midproject.asm
+                    show1   0x0001d2    program     static D:\microP\midproject\midproject.asm
+                    show2   0x0001e0    program     static D:\microP\midproject\midproject.asm
+                    show3   0x0001ee    program     static D:\microP\midproject\midproject.asm
+                    show4   0x0001fc    program     static D:\microP\midproject\midproject.asm
+                    show5   0x00020a    program     static D:\microP\midproject\midproject.asm
+                    show6   0x000218    program     static D:\microP\midproject\midproject.asm
+                    show7   0x000226    program     static D:\microP\midproject\midproject.asm
+                    show8   0x000234    program     static D:\microP\midproject\midproject.asm
+                    show9   0x000242    program     static D:\microP\midproject\midproject.asm
+                 showstar   0x00025e    program     static D:\microP\midproject\midproject.asm
+                     six6   0x0000a0    program     static D:\microP\midproject\midproject.asm
+                     star   0x0000d0    program     static D:\microP\midproject\midproject.asm
+                    start   0x00001a    program     static D:\microP\midproject\midproject.asm
+                studentID   0x000194    program     static D:\microP\midproject\midproject.asm
+                   three3   0x00007c    program     static D:\microP\midproject\midproject.asm
+                     two2   0x000070    program     static D:\microP\midproject\midproject.asm
+                    zero0   0x0000dc    program     static D:\microP\midproject\midproject.asm
+                 zulaikha   0x00014e    program     static D:\microP\midproject\midproject.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static D:\microP\midproject\midproject.asm
+                   check1   0x000022    program     static D:\microP\midproject\midproject.asm
+                   check2   0x00002a    program     static D:\microP\midproject\midproject.asm
+                     next   0x000032    program     static D:\microP\midproject\midproject.asm
+                     conA   0x000038    program     static D:\microP\midproject\midproject.asm
+                     conB   0x000042    program     static D:\microP\midproject\midproject.asm
+                     conC   0x00004c    program     static D:\microP\midproject\midproject.asm
+                     conD   0x000056    program     static D:\microP\midproject\midproject.asm
+                   keypad   0x000060    program     static D:\microP\midproject\midproject.asm
+                     one1   0x000064    program     static D:\microP\midproject\midproject.asm
+                     two2   0x000070    program     static D:\microP\midproject\midproject.asm
+                   three3   0x00007c    program     static D:\microP\midproject\midproject.asm
+                    four4   0x000088    program     static D:\microP\midproject\midproject.asm
+                    five5   0x000094    program     static D:\microP\midproject\midproject.asm
+                     six6   0x0000a0    program     static D:\microP\midproject\midproject.asm
+                   seven7   0x0000ac    program     static D:\microP\midproject\midproject.asm
+                   eight8   0x0000b8    program     static D:\microP\midproject\midproject.asm
+                    nine9   0x0000c4    program     static D:\microP\midproject\midproject.asm
+                     star   0x0000d0    program     static D:\microP\midproject\midproject.asm
+                    zero0   0x0000dc    program     static D:\microP\midproject\midproject.asm
+                 hashtag#   0x0000e8    program     static D:\microP\midproject\midproject.asm
+                  commlcd   0x0000f6    program     static D:\microP\midproject\midproject.asm
+                  sendata   0x000104    program     static D:\microP\midproject\midproject.asm
+                      lcd   0x000112    program     static D:\microP\midproject\midproject.asm
+                   matrix   0x000118    program     static D:\microP\midproject\midproject.asm
+                   cursor   0x000120    program     static D:\microP\midproject\midproject.asm
+                cleardisp   0x000128    program     static D:\microP\midproject\midproject.asm
+                 force1st   0x000132    program     static D:\microP\midproject\midproject.asm
+                 force2nd   0x000140    program     static D:\microP\midproject\midproject.asm
+                 zulaikha   0x00014e    program     static D:\microP\midproject\midproject.asm
+                studentID   0x000194    program     static D:\microP\midproject\midproject.asm
+                    show1   0x0001d2    program     static D:\microP\midproject\midproject.asm
+                    show2   0x0001e0    program     static D:\microP\midproject\midproject.asm
+                    show3   0x0001ee    program     static D:\microP\midproject\midproject.asm
+                    show4   0x0001fc    program     static D:\microP\midproject\midproject.asm
+                    show5   0x00020a    program     static D:\microP\midproject\midproject.asm
+                    show6   0x000218    program     static D:\microP\midproject\midproject.asm
+                    show7   0x000226    program     static D:\microP\midproject\midproject.asm
+                    show8   0x000234    program     static D:\microP\midproject\midproject.asm
+                    show9   0x000242    program     static D:\microP\midproject\midproject.asm
+                    show0   0x000250    program     static D:\microP\midproject\midproject.asm
+                 showstar   0x00025e    program     static D:\microP\midproject\midproject.asm
+                    show#   0x00026c    program     static D:\microP\midproject\midproject.asm
+                    delay   0x00027a    program     static D:\microP\midproject\midproject.asm
+                    again   0x00027e    program     static D:\microP\midproject\midproject.asm
+                   again2   0x000282    program     static D:\microP\midproject\midproject.asm
+
+
